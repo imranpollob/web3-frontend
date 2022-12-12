@@ -4,9 +4,11 @@ h1 {
 }
 
 .buttons {
-    padding-top: 20px;
-    display: flex;
-    justify-content: space-around;
+    text-align: center;
+}
+
+.buttons button {
+    margin-top: 20px;
 }
 
 button, input {
